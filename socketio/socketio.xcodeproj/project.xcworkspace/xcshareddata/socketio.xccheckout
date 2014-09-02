@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6886E185-E4FB-4481-B9FC-9FC103323402</string>
+	<key>IDESourceControlProjectName</key>
+	<string>socketio</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>011649BD1DEF42D991CEFA6990B3C2425220619B</key>
+		<string>github.com:TeehanLax/Labs-OS.git</string>
+		<key>2B1ACBDB7DF1D4416E62AD9540FAC3F17C19CBF1</key>
+		<string>github.com:TeehanLax/SwiftSocketIODemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>socketio/socketio.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>011649BD1DEF42D991CEFA6990B3C2425220619B</key>
+		<string>../../../../Labs-OS</string>
+		<key>2B1ACBDB7DF1D4416E62AD9540FAC3F17C19CBF1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:TeehanLax/SwiftSocketIODemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B1ACBDB7DF1D4416E62AD9540FAC3F17C19CBF1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>011649BD1DEF42D991CEFA6990B3C2425220619B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Labs-OS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B1ACBDB7DF1D4416E62AD9540FAC3F17C19CBF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftSocketIODemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
